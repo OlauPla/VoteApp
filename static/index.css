@@ -1,0 +1,21 @@
+.card{
+    width: 100%;
+    margin: auto;
+            
+}
+    
+button{
+    
+    width: 7%;
+    height: 5%;
+	margin:auto;
+
+}
+    
+input { 
+    text-align: center; 
+}
+
+form{
+	text-align: center;
+}
